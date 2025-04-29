@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\charp1\charp1\bin\Debug\net8.0\charp1.exe
+C:\Users\User\Desktop\charp1\charp1\bin\Debug\net8.0\charp1.deps.json
+C:\Users\User\Desktop\charp1\charp1\bin\Debug\net8.0\charp1.runtimeconfig.json
+C:\Users\User\Desktop\charp1\charp1\bin\Debug\net8.0\charp1.dll
+C:\Users\User\Desktop\charp1\charp1\bin\Debug\net8.0\charp1.pdb
+C:\Users\User\Desktop\charp1\charp1\obj\Debug\net8.0\charp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\charp1\charp1\obj\Debug\net8.0\charp1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\charp1\charp1\obj\Debug\net8.0\charp1.AssemblyInfo.cs
+C:\Users\User\Desktop\charp1\charp1\obj\Debug\net8.0\charp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\charp1\charp1\obj\Debug\net8.0\charp1.dll
+C:\Users\User\Desktop\charp1\charp1\obj\Debug\net8.0\refint\charp1.dll
+C:\Users\User\Desktop\charp1\charp1\obj\Debug\net8.0\charp1.pdb
+C:\Users\User\Desktop\charp1\charp1\obj\Debug\net8.0\charp1.genruntimeconfig.cache
+C:\Users\User\Desktop\charp1\charp1\obj\Debug\net8.0\ref\charp1.dll
