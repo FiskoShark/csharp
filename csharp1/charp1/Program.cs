@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 class Program
 {
 
@@ -7,22 +7,28 @@ class Program
         int ocinka1;
         int ocinka2;
         int ocinka3;
-        bool hasFailingGrade = false;
+        bool zavaleno = false;
 
         //--------------------------------------
         Console.Write("введіть першу оцінку: ");
         ocinka1 = int.Parse(Console.ReadLine());
+        Console.Write($"ваша перша оцінка {ocinka1}\n\n");
+
 
         Console.Write("введіть другу оцінку: ");
         ocinka2 = int.Parse(Console.ReadLine());
+        Console.Write($"ваша перша оцінка {ocinka2}\n\n");
+
 
         Console.Write("введіть третю оцінку: ");
         ocinka3 = int.Parse(Console.ReadLine());
+        Console.Write($"ваша перша оцінка {ocinka3}\n");
+
 
         //---------------------------------------
         if (ocinka1 < 50 || ocinka2 < 50 || ocinka3 < 50)
         {
-            hasFailingGrade = true;
+            zavaleno = true;
         }
 
 
@@ -32,7 +38,7 @@ class Program
 
 
 
-        if (hasFailingGrade)
+        if (zavaleno)
         {
             Console.WriteLine("студент не склав курс, присутній бал нижче 50 :(");
         }
