@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("введіть речення:");
+            Console.WriteLine("введіть речення: ");
             string rechennya = Console.ReadLine();
 
             slova(rechennya);
@@ -42,3 +42,4 @@
         }
     }
 }
+
