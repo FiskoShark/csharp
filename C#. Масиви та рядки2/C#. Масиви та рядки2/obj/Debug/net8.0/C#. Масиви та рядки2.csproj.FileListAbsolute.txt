@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#. Масиви та рядки2\C#. Масиви та рядки2\bin\Debug\net8.0\C#. Масиви та рядки2.exe
+C:\Users\User\Desktop\C#. Масиви та рядки2\C#. Масиви та рядки2\bin\Debug\net8.0\C#. Масиви та рядки2.deps.json
+C:\Users\User\Desktop\C#. Масиви та рядки2\C#. Масиви та рядки2\bin\Debug\net8.0\C#. Масиви та рядки2.runtimeconfig.json
+C:\Users\User\Desktop\C#. Масиви та рядки2\C#. Масиви та рядки2\bin\Debug\net8.0\C#. Масиви та рядки2.dll
+C:\Users\User\Desktop\C#. Масиви та рядки2\C#. Масиви та рядки2\bin\Debug\net8.0\C#. Масиви та рядки2.pdb
+C:\Users\User\Desktop\C#. Масиви та рядки2\C#. Масиви та рядки2\obj\Debug\net8.0\C#. Масиви та рядки2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#. Масиви та рядки2\C#. Масиви та рядки2\obj\Debug\net8.0\C#. Масиви та рядки2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#. Масиви та рядки2\C#. Масиви та рядки2\obj\Debug\net8.0\C#. Масиви та рядки2.AssemblyInfo.cs
+C:\Users\User\Desktop\C#. Масиви та рядки2\C#. Масиви та рядки2\obj\Debug\net8.0\C#. Масиви та рядки2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#. Масиви та рядки2\C#. Масиви та рядки2\obj\Debug\net8.0\C#. Масиви та рядки2.dll
+C:\Users\User\Desktop\C#. Масиви та рядки2\C#. Масиви та рядки2\obj\Debug\net8.0\refint\C#. Масиви та рядки2.dll
+C:\Users\User\Desktop\C#. Масиви та рядки2\C#. Масиви та рядки2\obj\Debug\net8.0\C#. Масиви та рядки2.pdb
+C:\Users\User\Desktop\C#. Масиви та рядки2\C#. Масиви та рядки2\obj\Debug\net8.0\C#. Масиви та рядки2.genruntimeconfig.cache
+C:\Users\User\Desktop\C#. Масиви та рядки2\C#. Масиви та рядки2\obj\Debug\net8.0\ref\C#. Масиви та рядки2.dll
